@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CIV6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CIV6Dlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_JianZhu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_QiGuan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_WenMing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_LingXiu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_KeJi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_DanWei.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_ZhengCe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_TiaoJian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_TeXing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="building.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="v.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tech.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="civic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="zongtexing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="zongtiaojian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="texing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tiaojian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="project.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ziyuan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ability.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="jinsheng.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wenming.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="yicheng.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tisheng.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="zhengce.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_XinTiao.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_WenMingTu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_LingXiuTu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_DanWeiTu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_QiTaTu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CIV6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CIV6Dlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_JianZhu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_QiGuan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_WenMing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_LingXiu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_KeJi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_DanWei.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_ZhengCe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_TiaoJian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_TeXing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="building.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tech.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="civic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zongtexing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zongtiaojian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="texing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tiaojian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="project.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="v.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ziyuan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ability.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="jinsheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wenming.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="yicheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tisheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zhengce.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_XinTiao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_WenMingTu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_LingXiuTu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_DanWeiTu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_QiTaTu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CIV6.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\CIV6.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\CIV6.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
